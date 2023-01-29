@@ -4,7 +4,7 @@ import whisper
 import os
 import re
 
-openai.api_key = "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"
+openai.api_key = ""
 
 def getTextAnswer(text):
      # задаем модель и промпт
