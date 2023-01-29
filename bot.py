@@ -5,7 +5,7 @@ import requests
 import os
 from script import getAudioAnswer, getTextAnswer
  
-TOKEN = "5787685011:AAFqdYOylKb4HFhfyvrjqa1l6yDNwEj6wGs"
+TOKEN = 
 app = Flask(__name__)
  
 def parse_message(message):
